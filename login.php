@@ -59,6 +59,9 @@
                 
             </div>
             <div>
+                <input type="hidden" name="hidden" value="hidden">
+            </div>
+            <div>
                 <span><button class="button" action="init">立即登陆</button></span>
                 <span><a href="register.php">注册</a></span>
             </div>
